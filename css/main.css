@@ -1,0 +1,62 @@
+/* Enter your custom CSS here */
+BODY {
+	font-family: Verdana, sans-serif;
+	color: #666666;
+	line-height: 1.428;
+}
+H1 {
+	padding-top:.6em;
+	font-size:45px;
+	padding-left: 15px;
+	line-height: 50px;
+	letter-spacing: 1.7px;
+}
+P {
+	line-height: 32px;
+	font-size: 16px;
+}
+UL {
+	padding-top:15px;
+}
+LI {
+	font-size:16px;
+	padding-top:10px;
+}
+.features {
+	border: 1px solid #666666;
+	margin-top: 30px;
+	width: 374px;
+	height: 224px;
+	padding-left:30px;
+}
+.mug {
+	height:374px;
+	width: 374px;
+}
+.container {
+	width: 1024px;
+	margin-left: 0px;
+	padding-left: 0px;
+}
+.subtitle {
+	color: #F07C17;
+}
+.st1 {
+	font-size: 24px;
+	padding-top: 1px;
+	padding-bottom:20px;
+}
+.st2 {
+	font-size:24px;
+	padding-top:10px;
+}
+.left_col {
+	margin-left:42px;
+	margin-top:21px;
+}
+.right_col {
+	padding-left: 70px;
+	padding-right: 0px;
+	margin-right: 0px;
+	margin-left: 3px;
+}

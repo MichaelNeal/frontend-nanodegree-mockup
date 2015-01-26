@@ -1,0 +1,12 @@
+Websites
+	udacity.com
+	w3schools.com
+	getbootstrap.com
+Books 
+	N/A
+Forums 
+	N/A
+Blog posts
+	N/A
+Github repositories
+	N/A
